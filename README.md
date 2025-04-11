@@ -1,6 +1,9 @@
 **Clone the repo:**
+
 git clone https://github.com/hruthish7/chinnu.git
+
 cd chinnu
+
 **Install dependencies:**
 pip install -r requirements.txt
 📁 Projects Overview
